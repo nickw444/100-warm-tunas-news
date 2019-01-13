@@ -1,5 +1,4 @@
 set -eu
-set -o pipefail
 
 function main() {
     git config --global user.email "travis@travis-ci.org"
