@@ -33,6 +33,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
-exclude:
-  - 100-warm-tunas
