@@ -1,0 +1,16 @@
+language: ruby
+
+script:
+  - bundle exec jekyll build
+  - bundle exec htmlproofer --disable-external ./_site
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  target-branch: master
+  keep-history: true
+  github_token: $GITHUB_TOKEN
+  local_dir: '_site'
+  fqdn: '100warmtunas.com'
+  on:
+    branch: master
