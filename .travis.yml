@@ -7,6 +7,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
+  repo: nickw444/100-warm-tunas
   target-branch: master
   keep-history: true
   github_token: $GITHUB_TOKEN
