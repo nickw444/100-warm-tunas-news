@@ -8,7 +8,7 @@ main() {
 
     cd 100-warm-tunas
     git add news/
-    git commit -m "Travis build: ${TRAVIS_BUILD_NUMBER}"
+    git commit -m "news: Build for ${TRAVIS_COMMIT}: ${TRAVIS_COMMIT_MESSAGE}"
     git push origin master
 }
 
