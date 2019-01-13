@@ -15,3 +15,10 @@ deploy:
   fqdn: '100warmtunas.com'
   on:
     branch: master
+
+deploy:
+  provider: script
+  script:
+    - ./bin/deploy.sh
+  on:
+    branch: master

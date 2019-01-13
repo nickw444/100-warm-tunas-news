@@ -34,4 +34,5 @@ defaults:
     values:
       layout: "post"
 
-destination: _site/news
+exclude:
+  - 100-warm-tunas
