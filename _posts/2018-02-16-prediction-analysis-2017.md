@@ -3,7 +3,7 @@ title: Prediction Analysis 2017
 author: Nick Whyte
 ---
 
-Over the space of 6 weeks, [100 Warm Tunas](https://100warmtunas.com/2017/) collected a large sum of data and chugged away at it to make some predictions about what the Hottest 100 of 2017 would look like. Along the way we encountered [a bug]({{site.baseurl}}/2018/01/2017-update/) in the collection process, however data was backfilled and showed that I had collected a sample size around the same as in [2016](https://100warmtunas.com/2016/).
+Over the space of 6 weeks, [100 Warm Tunas](https://100warmtunas.com/2017/) collected a large sum of data and chugged away at it to make some predictions about what the Hottest 100 of 2017 would look like. Along the way we encountered [a bug]({{site.baseurl}}/2018/01/2017-update/) in the collection process, however data was backfilled and showed that we had collected a sample size around the same as in [2016](https://100warmtunas.com/2016/).
 
 ### Summary
 

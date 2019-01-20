@@ -3,7 +3,7 @@ title: Prediction Analysis 2016
 author: Nick Whyte
 ---
 
-It's been a long time since the Hottest 100 of 2016 was aired. Unfortunately, I never really got around to publishing some analysis I performed on the [prediction results](https://100warmtunas.com/2016/). Fortunately, I managed to find some time recently!
+It's been a long time since the Hottest 100 of 2016 was aired. Unfortunately, we never really got around to publishing some analysis we performed on the [prediction results](https://100warmtunas.com/2016/). Fortunately, we managed to find some time recently!
 
 Looking from afar, the results don't look _fantastic_ (when you compare them to [my results from 2015](https://nickwhyte.com/post/2016/predicting-triple-j-hottest-100-2015/) at least). The prediction unfortunately predicted the top two places out of order, however did manage to predict the third place correctly.
 
