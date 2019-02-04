@@ -18,6 +18,7 @@ This year we made it possible for you to submit your votes in many different way
 - Warm Tunas predicted **7 out of the top 10 songs**.
 - Warm Tunas predicted **15 out of the top 20 songs**.
 - Warm Tunas predicted **83 out of the 100 songs** played in the countdown.
+- Between December and February, over **28,000 users** loaded [100warmtunas.com](https://100warmtunas.com) over **105,000** times.
 
 It is clear that this year our sample size is significantly smaller than both 2017 and 2016 countdowns. We have three hypothesis for these:
 
